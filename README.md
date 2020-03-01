@@ -4,6 +4,8 @@ This is a notebook for learning React.
 
 ## Links
 
+* [props](./start-props.md)
+
 ## Infos
 
 * Author: TaoQuixote
