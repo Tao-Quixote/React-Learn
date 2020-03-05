@@ -7,6 +7,7 @@ This is a notebook for learning React.
 * [props](./start-props.md)
 * Nextjs
 	* [Next.js](./nextjs/Nextjs.md)
+	* [Next.js-2](./nextjs/Nextjs-2.md)
 
 ## 声明
 
