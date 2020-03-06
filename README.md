@@ -8,6 +8,7 @@ This is a notebook for learning React.
 * Nextjs
 	* [Next.js](./nextjs/Nextjs.md)
 	* [Next.js-2](./nextjs/Nextjs-2.md)
+	* [Next.js-3 导出静态App](./nextjs/Nextjs-3.md)
 
 ## 声明
 
