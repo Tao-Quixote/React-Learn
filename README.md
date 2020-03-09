@@ -6,6 +6,7 @@ This is a notebook for learning React.
 
 * [props](./start-props.md)
 * [hook](./start-hook.md)
+* [code split](./start-code-split.md)
 * Nextjs
 	* [Next.js](./nextjs/Nextjs.md)
 	* [Next.js-2](./nextjs/Nextjs-2.md)
