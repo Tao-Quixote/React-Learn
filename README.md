@@ -4,6 +4,7 @@ This is a notebook for learning React.
 
 ## Links
 
+* [jsx](./start-jsx.md)
 * [props](./start-props.md)
 * [hook](./start-hook.md)
 * [code split](./start-code-split.md)
