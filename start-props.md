@@ -2,7 +2,7 @@
 
 ## spread props
 
-```react
+```jsx
 class Demo extends React.Component {
 	render () {
 		return (
@@ -16,7 +16,7 @@ class Demo extends React.Component {
 
 ## defaultProps
 
-```react
+```jsx
 class Demo extends React.Component {
 
 	static defaultProps = {
